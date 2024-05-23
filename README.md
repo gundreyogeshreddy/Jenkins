@@ -6,6 +6,7 @@ Run the below commands to install Java and Jenkins
 ** Install java
 
 sudo apt update
+
 sudo apt install openjdk-11-jre
 
 * Verify Java is Installed or not
