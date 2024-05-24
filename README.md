@@ -1,5 +1,9 @@
 # Jenkins
 
+What is Jenkins : 
+
+
+
 
 Run the below commands to install Java and Jenkins
 
@@ -22,5 +26,9 @@ echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \
   /etc/apt/sources.list.d/jenkins.list > /dev/null
 sudo apt-get update
 sudo apt-get install jenkins
+
+Insatll Docker :
+
+sudo apt install docker.io
 
 
