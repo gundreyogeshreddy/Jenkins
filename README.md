@@ -42,5 +42,6 @@ Switch to jenkis
 
 su - jenkins
 
--> Restart jenkins whenever we installed jenkins plugins to pickup changes
+-> Restart jenkins whenever we installed jenkins plugins to pickup changes.And it is better practice to restart jenkins on everytime whenever we make changes to reflect back.
 
+-> After click on available plugins and search for the docker pipeline and do install after restart.
