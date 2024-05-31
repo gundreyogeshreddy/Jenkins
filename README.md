@@ -38,7 +38,7 @@ usermod -aG docker jenkins
 usermod -aG docker ubuntu
 systemctl restart docker
 
-Switch to jenkis
+Switch to jenkis :
 
 su - jenkins
 
