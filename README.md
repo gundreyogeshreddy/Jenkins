@@ -36,9 +36,13 @@ sudo apt install docker.io
 Grant permissions to jenkins user and ubuntu user to docker
 
 sudo su - 
+
 usermod -aG docker jenkins
+
 usermod -aG docker ubuntu
+
 systemctl restart docker
+
 
 Switch to jenkis :
 
