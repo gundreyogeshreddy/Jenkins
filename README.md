@@ -44,6 +44,9 @@ usermod -aG docker ubuntu
 systemctl restart docker
 
 
+check docker status with (docker run hello-world)
+
+
 Switch to jenkis :
 
 su - jenkins
