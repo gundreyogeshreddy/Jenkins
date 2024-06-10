@@ -54,3 +54,9 @@ su - jenkins
 -> Restart jenkins whenever we installed jenkins plugins to pickup changes.And it is better practice to restart jenkins on everytime whenever we make changes to reflect back.
 
 -> After click on available plugins and search for the docker pipeline and do install after restart.
+
+-> Now click on configure -> SCM(Source Code Management) -> Git -> Start
+
+-> Finally click on the build ,now and it's starts process of building pipeline.
+
+-> Jenkins says to docker that when there is a request create a docker container as soon as process done or completed stop or delete that container.(This architecture saves time and cost).
