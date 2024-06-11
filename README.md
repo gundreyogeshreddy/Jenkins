@@ -44,12 +44,14 @@ usermod -aG docker ubuntu
 systemctl restart docker
 
 
-check docker status with (docker run hello-world)
+check docker status with (docker run hello-world) command
 
 
-Switch to jenkis :
+Switch to jenkins :
 
 su - jenkins
+
+-> Install docker-pipeline plugin
 
 -> Restart jenkins whenever we installed jenkins plugins to pickup changes.And it is better practice to restart jenkins on everytime whenever we make changes to reflect back.
 
