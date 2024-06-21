@@ -28,8 +28,10 @@ curl -fsSL https://pkg.jenkins.io/debian/jenkins.io-2023.key | sudo tee \
   https://pkg.jenkins.io/debian binary/ | sudo tee \
   /etc/apt/sources.list.d/jenkins.list > /dev/null
   
-   sudo apt-get update
-    sudo apt-get install jenkins
+   sudo apt-get update 
+
+   
+  sudo apt-get install jenkins
 
 Insatll Docker :
 
