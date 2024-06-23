@@ -19,7 +19,6 @@ What is Continuous Integration:
 
 Continuous Integration is the process of automatically building and testing of code whenever changes are committed by developer to the version control system.
 
-
 What is Continuous Delivery:
 
 Continuous delivery is a software development practice where code changes are automatically prepared for a release to the production. →And with continuous delivery every code change is built, test, and then pushed to the non-production testing or staging environment. And here can be multiple, parallel test stages before to a production deployment.
