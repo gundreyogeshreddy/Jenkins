@@ -28,9 +28,6 @@ What is Continuous Deployment:
 Continuous deployment is the process where code changes to an application are deploys automatically into the production environment.
 
 
-
-
-
 Run the below commands to install Java and Jenkins
 
 ** Install java
