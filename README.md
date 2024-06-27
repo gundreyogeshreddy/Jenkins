@@ -6,7 +6,6 @@ What is Jenkins:
 Jenkins is an open source automation server runs on the Java Virtual Machine (JVM). Jenkins automates the tasks such as building, testing, and deploying or delivering the software projects through Continuous integration and Continuous delivery (CI/CD) pipelines.
 
 Why use Jenkins:
-
 we can use Jenkins because it automates the process of building, testing, and deploying code, which improves development efficiency and reduces errors. And it supports continuous integration and continuous delivery (CI/CD), allowing for faster and more reliable software releases.
 
 ➡ And Jenkins has a vast plugin ecosystem, offering a wide range of integrations for various tools and platforms and to avoid security issues by storing our credentials under manage credentials option.
