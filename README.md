@@ -40,7 +40,7 @@ sudo apt install openjdk-11-jre
   
 java -version
 
-** Now install jenkins : 
+** Now install jenkins with below commands: 
 
 curl -fsSL https://pkg.jenkins.io/debian/jenkins.io-2023.key | sudo tee \
   /usr/share/keyrings/jenkins-keyring.asc > /dev/null
@@ -68,7 +68,7 @@ usermod -aG docker ubuntu
 systemctl restart docker
 
 
-check docker status with (docker run hello-world) command
+check docker status with (docker run hello-world) 
 
 
 Switch to jenkins :
